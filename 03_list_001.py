@@ -1,6 +1,6 @@
 numbers = [2, 3, 4, 5, 6, 7]
 print(numbers[2:])
-print(numbers[1:6])
+print(numbers[1:2])
 print(numbers[:6])
 
 print(numbers[-2:])
